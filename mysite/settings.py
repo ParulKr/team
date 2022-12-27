@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-bzc)(gx0@$-e__q#&g=+&q8+f1#i%+&r71%ilzhd$(y!vl+^)t
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['princecons.azurewebsites.net']
 
 
 # Application definition
